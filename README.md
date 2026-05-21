@@ -53,10 +53,6 @@ This brief belongs to the Calm Classroom series. It can be read alongside:
 
 ## Citation / DOI
 
-PDF available via DOI link:
-
-**DOI:** pending Zenodo publication
-
 After Zenodo publication, replace this line with:
 
-**DOI:** https://doi.org/[FINAL_DOI]
+**DOI:** https://doi.org/10.5281/zenodo.20334592
